@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Student Informations</string>
+
+    <string name="name_ath">Aung Thiha</string>
+    <string name="name_abe">Win Lwin</string>
+    <string name="name_zbk">Zin Bo Khine</string>
+
+    <string name="student_Roll">Roll-</string>
+    <string name="student_Name">Name-</string>
+    <string name="student_Gender">Gender-</string>
+    <string name="student_Weight">Weight-</string>
+    <string name="student_Height">Height-</string>
+    <string name="student_Email">Email-</string>
+    <string name="student_Mobile">Mobile-</string>
+
+    <string name="student_roll">Student Roll</string>
+    <string name="student_name">Student Name</string>
+    <string name="student_gender">Student Gender</string>
+    <string name="student_weight">Student Weight</string>
+    <string name="student_height">Student Height</string>
+    <string name="student_email">Student Email</string>
+    <string name="student_mobile">Student Mobile</string>
+
+    <string name="roll_number">Roll No -</string>
+    <string name="student_naming">Name -</string>
+    <string name="setting">Setting</string>
+    <string name="feedback">Feedback</string>
+    <string name="exit">Exit</string>
+</resources>

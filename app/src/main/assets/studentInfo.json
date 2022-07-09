@@ -1,0 +1,67 @@
+{
+  "students": [
+    {
+      "roll": 14,
+      "name": "Aung Thiha",
+      "gender": "Male",
+      "email": "flexath11@gmail.com",
+      "mobile": "09795448753",
+      "weight": 150,
+      "height" : 160.5
+    },
+    {
+      "roll": 9,
+      "name": "Win Lwin",
+      "gender": "Male",
+      "email": "winlwin@gmail.com",
+      "mobile": "09965179043",
+      "weight": 130,
+      "height" : 161.5
+    },
+    {
+      "roll": 6,
+      "name": "Zin Bo Khine",
+      "gender": "Male",
+      "email": "zinbokhine@gmail.com",
+      "mobile": "09264899306",
+      "weight": 140,
+      "height" : 159.5
+    },
+    {
+      "roll": 5,
+      "name": "Kyi Lay Lu",
+      "gender": "Female",
+      "email": "kyilaylu@gmail.com",
+      "mobile": "09262331588",
+      "weight": 110,
+      "height" : 130.2
+    },
+    {
+      "roll": 12,
+      "name": "Thet Paing Soe",
+      "gender": "Male",
+      "email": "thetpaingsoe@gmail.com",
+      "mobile": "09784899001",
+      "weight": 170,
+      "height" : 164.8
+    },
+    {
+      "roll": 7,
+      "name": "Kyi Khant",
+      "gender": "Male",
+      "email": "kyikhant@gmail.com",
+      "mobile": "09740860010",
+      "weight": 115,
+      "height" : 157.6
+    },
+    {
+      "roll": 1,
+      "name": "Okkar Min",
+      "gender": "Male",
+      "email": "okkar@gmail.com",
+      "mobile": "0943085956",
+      "weight": 135,
+      "height" : 165.3
+    }
+  ]
+}
